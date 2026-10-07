@@ -75,6 +75,7 @@ C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\HospitalApi.AssemblyIn
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\HospitalApi.csproj.CoreCompileInputs.cache
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\HospitalApi.MvcApplicationPartsAssemblyInfo.cs
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\HospitalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\HospitalApi.sourcelink.json
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\hospitalmng\hospital-api\HospitalApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
